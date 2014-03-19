@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 public interface Calculator {
 
     // Arithmetic Operations
-    BigDecimal add(BigDecimal t1, BigDecimal t2);
+    // BigDecimal add(BigDecimal t1, BigDecimal t2);
 
     BigDecimal subtract(BigDecimal t1, BigDecimal t2);
 
